@@ -1,0 +1,15 @@
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/ament_index/resource_index/package_run_dependencies/mearm_launch
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/ament_index/resource_index/parent_prefix_path/mearm_launch
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/environment/ament_prefix_path.sh
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/environment/ament_prefix_path.dsv
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/environment/path.sh
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/environment/path.dsv
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/local_setup.bash
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/local_setup.sh
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/local_setup.zsh
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/local_setup.dsv
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/package.dsv
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/ament_index/resource_index/packages/mearm_launch
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/cmake/mearm_launchConfig.cmake
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/cmake/mearm_launchConfig-version.cmake
+/home/ashalen/mearm_ros2_ws/install/mearm_launch/share/mearm_launch/package.xml

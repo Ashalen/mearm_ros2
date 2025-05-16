@@ -1,0 +1,4 @@
+source;share/mearm_model/local_setup.bash
+source;share/mearm_model/local_setup.dsv
+source;share/mearm_model/local_setup.sh
+source;share/mearm_model/local_setup.zsh

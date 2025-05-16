@@ -1,0 +1,45 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+-- Found xacro: 2.0.13 (/opt/ros/humble/share/xacro/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ashalen/mearm_ros2_ws/build/mearm_model
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/urdf/robot.urdf
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/arm_0_base.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/arm_0_left.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/arm_0_right.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/arm_1_connector.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/arm_1_left.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/arm_1_right.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/base.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/base_top.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/column_base.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/column_board.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/column_connector.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/column_left.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/column_right.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/gripper_base.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/gripper_left.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/gripper_right.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/gripper_support.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/meshes/servo_actuator.stl
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/launch/display.launch.py
+-- Symlinking: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/launch/gazebo_launch.py
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/ament_index/resource_index/package_run_dependencies/mearm_model
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/ament_index/resource_index/parent_prefix_path/mearm_model
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/environment/path.sh
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/environment/path.dsv
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/local_setup.bash
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/local_setup.sh
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/local_setup.zsh
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/local_setup.dsv
+-- Symlinking: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/package.dsv
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/ament_index/resource_index/packages/mearm_model
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/cmake/mearm_modelConfig.cmake
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/cmake/mearm_modelConfig-version.cmake
+-- Up-to-date symlink: /home/ashalen/mearm_ros2_ws/install/mearm_model/share/mearm_model/package.xml
