@@ -1,1 +1,0 @@
-/home/ashalen/mearm_ros2_ws/build/mearm_model/ament_cmake_environment_hooks/local_setup.sh
